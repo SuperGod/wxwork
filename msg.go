@@ -1,4 +1,4 @@
-package api
+package wxwork
 
 // MsgBase msg base struct
 type MsgBase struct {
